@@ -1,3 +1,4 @@
+
 {
     "meta": {
         "patch": "1.2.0.6485",
@@ -6544,7 +6545,7 @@
         "quality": "rare",
         "race": "none",
         "set": "expert",
-        "mana": 1,
+        "mana": 2,
         "attack": null,
         "health": null,
         "collectible": true,
@@ -6814,7 +6815,7 @@
         "quality": "rare",
         "race": "none",
         "set": "expert",
-        "mana": 5,
+        "mana": 6,
         "attack": 4,
         "health": 4,
         "collectible": true,
@@ -7006,7 +7007,7 @@
         "quality": "common",
         "race": "none",
         "set": "basic",
-        "mana": 0,
+        "mana": 1,
         "attack": null,
         "health": null,
         "collectible": true,
