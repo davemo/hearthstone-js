@@ -12,7 +12,7 @@ var download = function(uri, filename, callback){
   });
 };
 
-request.get('https://raw.githubusercontent.com/pdyck/hearthstone-db/master/cards/all-cards.json', function(err, res, body) {
+request.get('https://raw.githubusercontent.com/davemo/hearthstone-js/master/cards.json', function(err, res, body) {
   console.log("Downloading Hearthstone meta-data from github/pdyck/hearthstone-db");
   var cardData = JSON.parse(body);
   cardData.cards.forEach(function(card) {
