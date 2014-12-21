@@ -48,7 +48,7 @@ var heroNameFor = function (id) {
     case 11:
       return "druid"
     default:
-      return null;
+      return "neutral";
   }
 };
 
