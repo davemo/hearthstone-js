@@ -11253,7 +11253,7 @@
             },
             {
                 "effect": "overload",
-                "extra": "Overload: (3)",
+                "extra": "Overload: (3)"
             }
         ]
     }, {
@@ -12044,7 +12044,7 @@
             {
                 "effect":"divine_shield",
                 "extra": "Divine Shield."
-            },
+            }
         ]
     }, {
         "id": 2054,
