@@ -1,4 +1,4 @@
-{
+module.exports = {
     "meta": {
         "patch": "1.2.0.6485",
         "last_updated": "12.20.2014",
